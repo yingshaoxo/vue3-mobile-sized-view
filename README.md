@@ -5,8 +5,11 @@
 > Responsive Mobile-sized Wrapper for Vuejs - Easily prototype your mobile-sized web apps with desktop support  
 
 > This project's source and idea are fully based on [`react-mobile-sized-view`](https://github.com/junhoyeo/react-mobile-sized-view)  
+
 > Special thanks to [@junhoyeo](https://github.com/junhoyeo)
-> Special thanks to [@UX&I GmbH](https://github.com/UX-and-I)
+
+> Special thanks to [@stevejkang](https://github.com/stevejkang)
+
 > Special thanks to [@yingshaoxo](https://github.com/yingshaoxo)
 
 ## 🚀 Demo & Examples
