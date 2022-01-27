@@ -1,8 +1,20 @@
 {
   "name": "vue3-mobile-sized-view",
   "version": "1.0.0",
-  "author": "yingshaoxo",
   "description": "Remain the mobile view on desktop.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingshaoxo/vue3-mobile-sized-view.git"
+  },
+  "keywords": [
+    "vue3-mobile-view"
+  ],
+  "author": "yingshaoxo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingshaoxo/vue3-mobile-sized-view/issues"
+  },
+  "homepage": "https://github.com/yingshaoxo/vue3-mobile-sized-view#readme",
   "main": "dist/vue3-mobile-sized-view.ssr.js",
   "browser": "dist/vue3-mobile-sized-view.esm.js",
   "module": "dist/vue3-mobile-sized-view.esm.js",
